@@ -5,6 +5,8 @@ subtitle: 'A brief introduction about Markdown Grammar. '
 date: 2016-03-29T00:00:00.000Z
 finished: true
 ---
+![fix images](/netlifycmstest/images/uploads/user-2-icon.png "fix images")
+
 ## Heading
 
 Heading is really simple in Markdown, you can use `#` or `=` or `-`. 
@@ -83,11 +85,11 @@ _Italic_
 
 `***Italic & Bold***`
 
-_**Italic & Bold**_
+**_Italic & Bold_**
 
 `___Italic & Bold___`
 
-_**Italic & Bold**_
+**_Italic & Bold_**
 
 You can also do this:
 
@@ -188,8 +190,6 @@ Add the link description behind the link address like this:
 [Ben](www.itisbenjamin.github.io "Ben")
 
 ## Image
-
-
 
 How to write the images' descriptions are the same way as how you do it in links: 
 
