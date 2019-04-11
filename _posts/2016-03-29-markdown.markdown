@@ -83,11 +83,11 @@ _Italic_
 
 `***Italic & Bold***`
 
-**_Italic & Bold_**
+_**Italic & Bold**_
 
 `___Italic & Bold___`
 
-**_Italic & Bold_**
+_**Italic & Bold**_
 
 You can also do this:
 
@@ -189,13 +189,11 @@ Add the link description behind the link address like this:
 
 ## Image
 
-![Codes](/images/uploads/user-2-icon.png)
+
 
 How to write the images' descriptions are the same way as how you do it in links: 
 
-`![Codes](/img/code.png "Codes")`
-
-![Codes](/img/code.png "Codes")
+NO IMAGES
 
 ## Code
 
