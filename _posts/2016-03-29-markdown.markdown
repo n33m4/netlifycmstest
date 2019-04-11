@@ -193,7 +193,7 @@ Add the link description behind the link address like this:
 
 How to write the images' descriptions are the same way as how you do it in links: 
 
-NO IMAGES
+![User](/images/uploads/user-2-icon.png "User")
 
 ## Code
 
