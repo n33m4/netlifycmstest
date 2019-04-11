@@ -4,7 +4,7 @@ name: Your name # your name
 email: youremail@example.com # your email address
 description: >
     Testing Netlify CMS for Github # this means to ignore newlines until "baseurl:"
-baseurl: "/netliycsmtest" # the subpath of your site, e.g. /blog
+baseurl: "/netlifycmstest" # the subpath of your site, e.g. /blog
 url: "https://n33m4.github.io/netlifycmstest" # the base hostname & protocol for your site
 twitter_username: github# your Twitter username
 github_username: github# your Github username
