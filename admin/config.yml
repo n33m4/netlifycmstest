@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: n33m4/netlifycmstest
+  repo: netlifycmstest/n33m4.github.io
   branch: master # Branch to update (optional; defaults to master)
   site_domain: nostalgic-goodall-153c4e.netlify.com
 
 media_folder: "images/uploads" # Media files will be stored in the repo under images/uploadsmedia_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/netlifycmstest/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
