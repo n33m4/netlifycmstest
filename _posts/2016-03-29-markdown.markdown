@@ -193,8 +193,6 @@ Add the link description behind the link address like this:
 
 ## Image
 
-`![Codes](/img/code.png)`
-
 ![Codes](/images/uploads/user-2-icon.png)
 
 How to write the images' descriptions are the same way as how you do it in links: 
