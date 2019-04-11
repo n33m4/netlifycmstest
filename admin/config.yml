@@ -19,3 +19,4 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "EOF?", name: "finished", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
+    extension: "markdown"
