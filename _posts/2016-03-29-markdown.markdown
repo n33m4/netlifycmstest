@@ -83,11 +83,11 @@ _Italic_
 
 `***Italic & Bold***`
 
-_**Italic & Bold**_
+**_Italic & Bold_**
 
 `___Italic & Bold___`
 
-_**Italic & Bold**_
+**_Italic & Bold_**
 
 You can also do this:
 
@@ -150,11 +150,7 @@ You can also do this:
 `> * Ignorance is Stength`
 
 > * War is Peace
->
->
 > * Freedom is Slavery
->
->
 > * Ignorance is Stength
 
 ## Link
