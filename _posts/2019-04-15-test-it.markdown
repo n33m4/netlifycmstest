@@ -1,8 +1,8 @@
 ---
 layout: post
-title: test it
-subtitle: test has no subtitle
-date: 2019-04-11T16:53:42.326Z
+title: another post
+subtitle: This post needs a subtitle.
+date: 2019-04-03T04:54:42.326Z
 finished: true
 ---
 # passed?
